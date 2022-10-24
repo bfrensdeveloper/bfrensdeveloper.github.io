@@ -6118,7 +6118,7 @@ a.metaportal_fn_videobutton:hover .fn__svg,
 
 
 .fn_cs_collection_info{
-	padding: 140px 0 120px;
+	padding: 140px 0 142px;
 	display: -webkit-flex;
     display: -moz-flex;
     display: -ms-flex;
@@ -6131,7 +6131,7 @@ a.metaportal_fn_videobutton:hover .fn__svg,
     flex-direction: column;
     -ms-align-items: center;
     align-items: center;
-    max-width: 720px;
+    max-width: 780px;
     margin: 0 auto;
     position: relative;
     z-index: 1;
