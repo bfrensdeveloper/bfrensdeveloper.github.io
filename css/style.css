@@ -191,7 +191,7 @@ body{
 	color: var(--bc);
 	position: relative;
 	word-break: break-word;
-	background: rgb(132, 226, 233);
+	background: rgb(118, 220, 228);
 	background: -moz-linear-gradient(90deg, rgba(27,18,29,1) 0%, rgba(18,15,47,1) 50%, rgba(27,18,29,1) 100%);
 	background: -webkit-linear-gradient(90deg, rgba(27,18,29,1) 0%, rgba(18,15,47,1) 50%, rgba(27,18,29,1) 100%);
 	background: linear-gradient(90deg, rgba(27,18,29,1) 0%, rgba(18,15,47,1) 50%, rgba(27,18,29,1) 100%);
