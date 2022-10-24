@@ -192,9 +192,9 @@ body{
 	position: relative;
 	word-break: break-word;
 	background: rgb(118, 220, 228);
-	background: -moz-linear-gradient(90deg, rgb(113, 213, 226) 0%, rgba(18,15,47,1) 50%, rgba(27,18,29,1) 100%);
-	background: -webkit-linear-gradient(90deg, rgb(161, 229, 238) 0%, rgba(18,15,47,1) 50%, rgba(27,18,29,1) 100%);
-	background: linear-gradient(90deg, rgb(137, 225, 236) 0%, rgba(18,15,47,1) 50%, rgba(27,18,29,1) 100%);
+	background: -moz-linear-gradient(90deg, rgb(18, 28, 29) 0%, rgba(18,15,47,1) 50%, rgba(27,18,29,1) 100%);
+	background: -webkit-linear-gradient(90deg, rgb(121, 221, 224) 0%, rgba(18,15,47,1) 50%, rgba(27,18,29,1) 100%);
+	background: linear-gradient(90deg, rgba(27,18,29,1) 0%, rgba(18,15,47,1) 50%, rgba(27,18,29,1) 100%);
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#1b121d",endColorstr="#1b121d",GradientType=1);
 }
 body,
