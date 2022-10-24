@@ -192,8 +192,8 @@ body{
 	position: relative;
 	word-break: break-word;
 	background: rgb(85, 196, 230);
-	background: -moz-linear-gradient(90deg, rgb(220, 233, 108) 0%, rgba(18,15,47,1) 50%, rgba(27,18,29,1) 100%);
-	background: -webkit-linear-gradient(90deg, rgba(27,18,29,1) 0%, rgba(18,15,47,1) 50%, rgba(27,18,29,1) 100%);
+	background: -moz-linear-gradient(90deg, rgb(220, 233, 108) 0%, rgb(99, 187, 228) 50%, rgb(230, 236, 135) 100%);
+	background: -webkit-linear-gradient(90deg, rgb(231, 160, 132) 0%, rgba(18,15,47,1) 50%, rgba(27,18,29,1) 100%);
 	background: linear-gradient(90deg, rgba(27,18,29,1) 0%, rgba(18,15,47,1) 50%, rgba(27,18,29,1) 100%);
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#1b121d",endColorstr="#1b121d",GradientType=1);
 }
