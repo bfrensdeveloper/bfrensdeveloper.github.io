@@ -194,7 +194,7 @@ body{
 	background: rgb(118, 220, 228);
 	background: -moz-linear-gradient(90deg, rgb(18, 28, 29) 0%, rgba(18,15,47,1) 50%, rgba(27,18,29,1) 100%);
 	background: -webkit-linear-gradient(90deg, rgb(121, 221, 224) 0%, rgba(18,15,47,1) 50%, rgb(211, 228, 119) 100%);
-	background: linear-gradient(90deg, rgb(80, 202, 233) 0%, rgba(18,15,47,1) 50%, rgb(236, 238, 126) 100%);
+	background: linear-gradient(90deg, rgb(194, 201, 106) 0%, rgba(18,15,47,1) 50%, rgb(220, 221, 140) 100%);
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#1b121d",endColorstr="#1b121d",GradientType=1);
 }
 body,
