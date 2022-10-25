@@ -6040,8 +6040,8 @@ a.metaportal_fn_videobutton:hover .fn__svg,
 	background: -webkit-linear-gradient(45deg,var(--mc1),var(--mc2),var(--mc1),var(--mc2)) border-box;
 	background: linear-gradient(45deg,var(--mc1),var(--mc2),var(--mc1),var(--mc2)) border-box;
 	-webkit-mask:
-	linear-gradient(rgb(92, 224, 224) 0 0) padding-box, 
-	linear-gradient(rgb(160, 210, 230) 0 0);
+	linear-gradient(#fff 0 0) padding-box, 
+	linear-gradient(#fff 0 0);
 	-webkit-mask-composite: destination-out;
 	-webkit-mask-composite: source-out;
 	mask-composite: exclude;
